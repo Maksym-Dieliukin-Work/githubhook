@@ -123,9 +123,6 @@
   <data name="Created" xml:space="preserve">
     <value>Created</value>
   </data>
-  <data name="DueDate" xml:space="preserve">
-    <value>Due date</value>
-  </data>
   <data name="Edited" xml:space="preserve">
     <value>Edited</value>
   </data>
