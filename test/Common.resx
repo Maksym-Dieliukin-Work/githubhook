@@ -121,7 +121,7 @@
     <value>By</value>
   </data>
   <data name="Created" xml:space="preserve">
-    <value>Created 5</value>
+    <value>Created 6</value>
   </data>
   <data name="Edited" xml:space="preserve">
     <value>Edited</value>
@@ -129,7 +129,7 @@
   <data name="AddedEnding" xml:space="preserve">
     <value>added.</value>
   </data>
-  <data name="TestGH5" xml:space="preserve">
-    <value>test gh 5</value>
+  <data name="TestGH6" xml:space="preserve">
+    <value>test gh 6</value>
   </data>
 </root>
