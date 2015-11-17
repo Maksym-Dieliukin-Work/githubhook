@@ -121,12 +121,15 @@
     <value>By</value>
   </data>
   <data name="Created" xml:space="preserve">
-    <value>Created</value>
+    <value>Created 123</value>
   </data>
   <data name="Edited" xml:space="preserve">
     <value>Edited</value>
   </data>
   <data name="AddedEnding" xml:space="preserve">
     <value>added.</value>
+  </data>
+  <data name="TestGH0" xml:space="preserve">
+    <value>test gh 0</value>
   </data>
 </root>
