@@ -59,10 +59,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="By" xml:space="preserve">
-    <value>a</value>
+    <value>a 1</value>
   </data>
   <data name="Created" xml:space="preserve">
-    <value>b</value>
+    <value>b 2</value>
   </data>
   <data name="Edited" xml:space="preserve">
     <value>c</value>
