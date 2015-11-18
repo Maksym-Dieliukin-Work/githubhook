@@ -129,4 +129,7 @@
   <data name="AddedEnding" xml:space="preserve">
     <value>added.</value>
   </data>
+  <data name="TestGH" xml:space="preserve">
+    <value>test gh 1323</value>
+  </data>
 </root>
