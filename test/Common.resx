@@ -135,4 +135,7 @@
   <data name="TestGH10" xml:space="preserve">
     <value>test gh 10</value>
   </data>
+  <data name="TestGH11" xml:space="preserve">
+    <value>test gh 11</value>
+  </data>  
 </root>
