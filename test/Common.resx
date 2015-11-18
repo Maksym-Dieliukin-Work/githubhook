@@ -129,13 +129,13 @@
   <data name="AddedEnding" xml:space="preserve">
     <value>added.</value>
   </data>
-  <data name="TestGH9" xml:space="preserve">
-    <value>test gh 9</value>
+  <data name="TestGH12" xml:space="preserve">
+    <value>test gh 12</value>
   </data>
-  <data name="TestGH10" xml:space="preserve">
-    <value>test gh 10</value>
+  <data name="TestGH13" xml:space="preserve">
+    <value>test gh 13</value>
   </data>
-  <data name="TestGH11" xml:space="preserve">
-    <value>test gh 11</value>
+  <data name="TestGH14" xml:space="preserve">
+    <value>test gh 14</value>
   </data>  
 </root>
