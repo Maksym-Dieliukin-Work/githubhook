@@ -170,5 +170,8 @@
   </data>  
   <data name="C" xml:space="preserve">
     <value>C</value>
+  </data> 
+  <data name="D" xml:space="preserve">
+    <value>D</value>
   </data>  
 </root>
