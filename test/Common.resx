@@ -230,5 +230,8 @@
   </data>
   <data name="V" xml:space="preserve">
     <value>V</value>
-  </data>    
+  </data>
+  <data name="W" xml:space="preserve">
+    <value>W</value>
+  </data>      
 </root>
