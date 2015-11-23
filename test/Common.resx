@@ -132,4 +132,10 @@
   <data name="Test" xml:space="preserve">
     <value>test 15</value>
   </data>
+  <data name="Foo" xml:space="preserve">
+    <value>test foo</value>
+  </data>
+  <data name="Bar" xml:space="preserve">
+    <value>test bar</value>
+  </data>
 </root>
