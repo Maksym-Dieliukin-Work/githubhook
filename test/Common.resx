@@ -197,5 +197,8 @@
   </data>
   <data name="M" xml:space="preserve">
     <value>M</value>
-  </data>    
+  </data>
+  <data name="N" xml:space="preserve">
+    <value>N</value>
+  </data>  
 </root>
