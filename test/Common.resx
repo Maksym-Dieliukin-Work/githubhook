@@ -245,5 +245,8 @@
   </data>
   <data name="AA" xml:space="preserve">
     <value>AA</value>
-  </data>  
+  </data>
+  <data name="BB" xml:space="preserve">
+    <value>BB</value>
+  </data>
 </root>
