@@ -147,4 +147,7 @@
   <data name="Bof" xml:space="preserve">
     <value>test bof</value>
   </data>
+  <data name="Buff" xml:space="preserve">
+    <value>test Buff</value>
+  </data>
 </root>
