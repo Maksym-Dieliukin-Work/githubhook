@@ -239,5 +239,8 @@
   </data>
   <data name="Y" xml:space="preserve">
     <value>Y</value>
+  </data>
+  <data name="Z" xml:space="preserve">
+    <value>Z</value>
   </data>  
 </root>
