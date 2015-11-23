@@ -219,4 +219,7 @@
   <data name="R" xml:space="preserve">
     <value>R</value>
   </data>
+  <data name="S" xml:space="preserve">
+    <value>S</value>
+  </data>  
 </root>
