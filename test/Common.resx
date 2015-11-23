@@ -159,4 +159,7 @@
   <data name="Fuzz" xml:space="preserve">
     <value>test Fuzz</value>
   </data>  
+  <data name="Wuff" xml:space="preserve">
+    <value>test Wuff</value>
+  </data>  
 </root>
