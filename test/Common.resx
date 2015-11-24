@@ -161,5 +161,8 @@
   </data>
   <data name="Foo8" xml:space="preserve">
     <value>test foo8</value>
-  </data> 
+  </data>
+  <data name="Foo9" xml:space="preserve">
+    <value>test foo9</value>
+  </data>
 </root>
