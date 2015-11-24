@@ -118,9 +118,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Lorem" xml:space="preserve">
-    <value>Ipsum</value>
+    <value>Lorem</value>
   </data>
   <data name="Dolor" xml:space="preserve">
     <value>Dolor</value>
+  </data>
+  <data name="Ipsum" xml:space="preserve">
+    <value>Ipsum</value>
   </data>
 </root>
