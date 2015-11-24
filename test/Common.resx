@@ -120,4 +120,7 @@
   <data name="Lorem" xml:space="preserve">
     <value>Ipsum</value>
   </data>
+  <data name="Dolor" xml:space="preserve">
+    <value>Dolor</value>
+  </data>
 </root>
