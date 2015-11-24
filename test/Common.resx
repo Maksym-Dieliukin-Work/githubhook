@@ -117,58 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="By" xml:space="preserve">
-    <value>By</value>
-  </data>
-  <data name="Created" xml:space="preserve">
-    <value>Created</value>
-  </data>
-  <data name="Edited" xml:space="preserve">
-    <value>Edited</value>
-  </data>
-  <data name="AddedEnding" xml:space="preserve">
-    <value>added.</value>
-  </data>
-  <data name="Test" xml:space="preserve">
-    <value>test 15</value>
-  </data>
-  <data name="Foo" xml:space="preserve">
-    <value>test foo</value>
-  </data>
-  <data name="Foo1" xml:space="preserve">
-    <value>test foo1</value>
-  </data>
-  <data name="Foo2" xml:space="preserve">
-    <value>test foo2</value>
-  </data>
-  <data name="Foo3" xml:space="preserve">
-    <value>test foo3</value>
-  </data>
-  <data name="Foo4" xml:space="preserve">
-    <value>test foo4</value>
-  </data>
-  <data name="Foo5" xml:space="preserve">
-    <value>test foo5</value>
-  </data>
-  <data name="Foo6" xml:space="preserve">
-    <value>test foo6</value>
-  </data>
-  <data name="Foo7" xml:space="preserve">
-    <value>test foo7</value>
-  </data>
-  <data name="Foo7" xml:space="preserve">
-    <value>test foo7</value>
-  </data>
-  <data name="Foo8" xml:space="preserve">
-    <value>test foo8</value>
-  </data>
-  <data name="Foo9" xml:space="preserve">
-    <value>test foo9</value>
-  </data>
-  <data name="Foo10" xml:space="preserve">
-    <value>test foo10</value>
-  </data>
-  <data name="Foo11" xml:space="preserve">
-    <value>test foo11</value>
+  <data name="Lorem" xml:space="preserve">
+    <value>Ipsum</value>
   </data>
 </root>
