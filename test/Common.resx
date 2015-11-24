@@ -134,8 +134,5 @@
   </data>
   <data name="Foo" xml:space="preserve">
     <value>test foo</value>
-  </data>
-  <data name="Bar" xml:space="preserve">
-    <value>test bar</value>
   </data>    
 </root>
