@@ -249,4 +249,7 @@
   <data name="BB" xml:space="preserve">
     <value>BB</value>
   </data>
+  <data name="CC" xml:space="preserve">
+    <value>CC</value>
+  </data>  
 </root>
