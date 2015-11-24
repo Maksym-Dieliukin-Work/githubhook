@@ -165,4 +165,7 @@
   <data name="Foo9" xml:space="preserve">
     <value>test foo9</value>
   </data>
+  <data name="Foo10" xml:space="preserve">
+    <value>test foo10</value>
+  </data>
 </root>
