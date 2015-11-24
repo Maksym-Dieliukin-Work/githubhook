@@ -251,5 +251,8 @@
   </data>
   <data name="CC" xml:space="preserve">
     <value>CC</value>
-  </data>  
+  </data>
+  <data name="DD" xml:space="preserve">
+    <value>DD</value>
+  </data>    
 </root>
