@@ -85,4 +85,7 @@
   <data name="Dolor" xml:space="preserve">
     <value>Dolor te-ST</value>
   </data>
+  <data name="Ipsum" xml:space="preserve">
+    <value>Ipsum te-ST</value>
+  </data>
 </root>
