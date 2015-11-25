@@ -79,4 +79,10 @@
   <data name="Foo" xml:space="preserve">
     <value>test foo te-ST</value>
   </data>
+  <data name="Lorem" xml:space="preserve">
+    <value>Lorem te-ST</value>
+  </data>
+  <data name="Dolor" xml:space="preserve">
+    <value>Dolor te-ST</value>
+  </data>
 </root>
