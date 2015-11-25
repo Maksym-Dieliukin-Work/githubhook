@@ -132,4 +132,7 @@
   <data name="Amet" xml:space="preserve">
     <value>Amet</value>
   </data>
+  <data name="Quod" xml:space="preserve">
+    <value>Quod</value>
+  </data>
 </root>
