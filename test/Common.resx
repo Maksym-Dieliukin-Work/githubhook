@@ -126,4 +126,7 @@
   <data name="Ipsum" xml:space="preserve">
     <value>Ipsum</value>
   </data>
+  <data name="Sit" xml:space="preserve">
+    <value>Sit</value>
+  </data>
 </root>
