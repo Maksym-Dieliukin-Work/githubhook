@@ -91,4 +91,7 @@
   <data name="Sit" xml:space="preserve">
     <value>Sit te-ST</value>
   </data>
+  <data name="Amet" xml:space="preserve">
+    <value>Amet te-ST</value>
+  </data>
 </root>
