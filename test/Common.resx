@@ -129,4 +129,7 @@
   <data name="Sit" xml:space="preserve">
     <value>Sit</value>
   </data>
+  <data name="Amet" xml:space="preserve">
+    <value>Amet</value>
+  </data>
 </root>
