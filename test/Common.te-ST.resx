@@ -97,4 +97,7 @@
   <data name="Quod" xml:space="preserve">
     <value>Quod te-ST 6</value>
   </data>
+  <data name="Nec" xml:space="preserve">
+    <value>Nec te-ST</value>
+  </data>
 </root>
