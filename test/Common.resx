@@ -138,4 +138,7 @@
   <data name="Nec" xml:space="preserve">
     <value>Nec</value>
   </data>
+  <data name="Jovis" xml:space="preserve">
+    <value>Jovis</value>
+  </data>
 </root>
