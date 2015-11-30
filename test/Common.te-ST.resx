@@ -101,6 +101,9 @@
     <value>Nec te-ST 7</value>
   </data>
   <data name="Jovis" xml:space="preserve">
+    <value>Jovis</value>
+  </data>
+  <data name="Ignis" xml:space="preserve">
     <value>Ignis te-ST</value>
   </data>
 </root>
