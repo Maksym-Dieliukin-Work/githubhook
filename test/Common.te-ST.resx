@@ -83,7 +83,7 @@
     <value>Lorem te-ST 1</value>
   </data>
   <data name="Dolor" xml:space="preserve">
-    <value>Rechnung {{InvoiceNumber}} für {{CustomerName}} 1</value>
+    <value>Rechnung {{InvoiceNumber}} für {{CustomerName}} 23</value>
   </data>
   <data name="Ipsum" xml:space="preserve">
     <value>Ipsum te-ST 3</value>
@@ -105,5 +105,11 @@
   </data>
   <data name="Ignis" xml:space="preserve">
     <value>Ignis te-ST</value>
+  </data>
+  <data name="Noli" xml:space="preserve">
+    <value>Noli te-ST {{bar}}</value>
+  </data>
+  <data name="Equi" xml:space="preserve">
+    <value>Equi te-ST {{baz}}</value>
   </data>
 </root>
