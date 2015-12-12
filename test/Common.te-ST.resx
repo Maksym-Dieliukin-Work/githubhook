@@ -83,7 +83,7 @@
     <value>Lorem te-ST 1</value>
   </data>
   <data name="Dolor" xml:space="preserve">
-    <value>Dolor te-ST 2</value>
+    <value>Rechnung {{InvoiceNumber}} für {{CustomerName}}</value>
   </data>
   <data name="Ipsum" xml:space="preserve">
     <value>Ipsum te-ST 3</value>
