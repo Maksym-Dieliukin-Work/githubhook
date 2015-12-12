@@ -107,7 +107,7 @@
     <value>Ignis te-ST</value>
   </data>
   <data name="Noli" xml:space="preserve">
-    <value>Noli te-ST {{bar}}</value>
+    <value>Noli te-ST {{bar}} 123</value>
   </data>
   <data name="Equi" xml:space="preserve">
     <value>Equi te-ST {{baz}}</value>
