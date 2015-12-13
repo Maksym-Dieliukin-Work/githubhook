@@ -1,2 +1,2 @@
 I have been modified and I am not a .resx file
-And again
+Modified from other placeAnd again
