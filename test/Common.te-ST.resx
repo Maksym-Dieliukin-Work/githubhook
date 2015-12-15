@@ -86,7 +86,7 @@
     <value>Rechnung {{InvoiceNumber}} für {{CustomerName}} 23</value>
   </data>
   <data name="Ipsum" xml:space="preserve">
-    <value>Ipsum te-ST 33</value>
+    <value>Ipsum te-ST 333</value>
   </data>
   <data name="Sit" xml:space="preserve">
     <value>Sit te-ST 4</value>
@@ -107,7 +107,7 @@
     <value>Ignis te-ST</value>
   </data>
   <data name="Noli" xml:space="preserve">
-    <value>Noli te-ST {{bar}} 123</value>
+    <value>Noli te-ST {{bar}} 1234</value>
   </data>
   <data name="Equi" xml:space="preserve">
     <value>Equi te-ST {{baz}} 222</value>
