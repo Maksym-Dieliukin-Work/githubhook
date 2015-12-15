@@ -110,6 +110,6 @@
     <value>Noli te-ST {{bar}} 1234</value>
   </data>
   <data name="Equi" xml:space="preserve">
-    <value>Equi te-ST {{baz}} 222</value>
+    <value>Equi te-ST {{baz}} 2222</value>
   </data>
 </root>
