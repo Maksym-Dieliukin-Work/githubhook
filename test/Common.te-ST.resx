@@ -80,7 +80,7 @@
     <value>test foo te-ST</value>
   </data>
   <data name="Lorem" xml:space="preserve">
-    <value>Lorem te-ST 11 added text</value>
+    <value>Lorem translated to te-ST language</value>
   </data>
   <data name="Dolor" xml:space="preserve">
     <value>Rechnung {{InvoiceNumber}} für {{CustomerName}} 23</value>
